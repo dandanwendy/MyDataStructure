@@ -2,39 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82d7256c-3b84-4cfb-a54e-38150b087584" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBases/nio/NioClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBases/nio/NioServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/alibaba828/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/alibaba828/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/guangLianDa/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/guangLianDa/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/guangLianDa/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei0909/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei0909/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei2021/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei2021/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei2021/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei415/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/huawei415/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/shenXinFu/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/shenXinFu/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/shunWang/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/xiaomi/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/xiaomi/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/zte/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my2021Test/zte/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/huawei/problem21_30/Solution24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/huawei/problem21_30/Solution28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/huawei/problem51_60/Solution51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/huawei/problem51_60/Solution67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem1_9/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem200_209/Solution200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem30_39/Solution39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem90_99/Solution90.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_konwlwdge/niuke/huawei/huawei2016/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_konwlwdge/niuke/huawei/huawei2016/Test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_konwlwdge/niuke/huawei/huawei2016/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_konwlwdge/niuke/huawei/huawei2016/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/niuke/huawei/huawei2016/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/niuke/huawei/huawei2016/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my2021Test/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my2021Test/huanJv/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my2021Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBases/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,37 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/huawei2016/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution77.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem21_30/Solution24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem21_30/Solution28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution48.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="152">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,48 +42,90 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution78.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="285">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem90_99/Solution90.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution79.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="62" lean-forward="true" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/my2021Test/zte/Solution1.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem1_9/Solution4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaBases/nio/NioServer.java">
+        <entry file="file://$PROJECT_DIR$/src/my2021Test/xiaomi/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution40.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution47.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my2021Test/huawei2021/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem51_60/Solution51.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem51_60/Solution67.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2299">
-              <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,18 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dataStructure/javaCollectionMap/TestSet.java" />
-        <option value="$PROJECT_DIR$/src/dataStructure/javaCollectionMap/TestMap.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution100.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution99.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution97.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution96.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution95.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution91.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem81_90/Solution87.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem61_70/Solution62.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem61_70/Solution66.java" />
-        <option value="$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution82.java" />
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution73.java" />
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution74.java" />
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution72.java" />
@@ -221,7 +205,19 @@
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem21_30/Solution24.java" />
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem21_30/Solution28.java" />
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution48.java" />
+        <option value="$PROJECT_DIR$/src/javaBases/Test.java" />
+        <option value="$PROJECT_DIR$/src/my2021Test/huanJv/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution46.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem30_39/Solution39.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution47.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution40.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem200_209/Solution200.java" />
         <option value="$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution77.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution78.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem90_99/Solution90.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution79.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/orderly/problem1_9/Solution4.java" />
       </list>
     </option>
   </component>
@@ -243,7 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,6 +280,58 @@
               <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="orderly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="orderly" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1_9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="orderly" type="462c0819:PsiDirectoryNode" />
+              <item name="problem40_49" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="orderly" type="462c0819:PsiDirectoryNode" />
+              <item name="problem70_79" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="orderly" type="462c0819:PsiDirectoryNode" />
+              <item name="problem200_209" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="my2021Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="my2021Test" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_konwlwdge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_konwlwdge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="niuke" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -305,7 +353,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,11 +373,11 @@
       <recent name="leetcode.shuaTi.wendyHot100.FastSlowPointer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\java_project\java_konwlwdge\src\leetcode" />
+      <recent name="G:\java_project\java_konwlwdge\src" />
       <recent name="F:\java_project\java_konwlwdge\src\dataStructure\hash" />
       <recent name="F:\java_project\java_konwlwdge\src\dataStructure\graph\weightedGraph" />
       <recent name="F:\java_project\java_konwlwdge\src\dataStructure\graph\unWeightedGraph" />
-      <recent name="F:\java_project\java_konwlwdge\src\dataStructure\graph" />
-      <recent name="F:\java_project\java_konwlwdge\src\dataStructure" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -344,13 +392,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution48">
-    <configuration name="Solution24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.huawei.problem21_30.Solution24" />
+  <component name="RunManager" selected="Application.Solution4">
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.orderly.problem1_9.Solution4" />
       <module name="java_konwlwdge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.huawei.problem21_30.*" />
+          <option name="PATTERN" value="leetcode.orderly.problem1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.huawei.problem41_50.Solution48" />
+    <configuration name="Solution77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.orderly.problem70_79.Solution77" />
       <module name="java_konwlwdge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.huawei.problem41_50.*" />
+          <option name="PATTERN" value="leetcode.orderly.problem70_79.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,12 +419,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.huawei.problem51_60.Solution51" />
+    <configuration name="Solution78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.orderly.problem70_79.Solution78" />
       <module name="java_konwlwdge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.huawei.problem51_60.*" />
+          <option name="PATTERN" value="leetcode.orderly.problem70_79.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +432,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.huawei.problem51_60.Solution67" />
+    <configuration name="Solution79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.orderly.problem70_79.Solution79" />
       <module name="java_konwlwdge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.huawei.problem51_60.*" />
+          <option name="PATTERN" value="leetcode.orderly.problem70_79.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +445,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.huawei.huawei2016.Test" />
+    <configuration name="Solution90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.orderly.problem90_99.Solution90" />
       <module name="java_konwlwdge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.huawei.huawei2016.*" />
+          <option name="PATTERN" value="leetcode.orderly.problem90_99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,19 +459,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Solution51" />
-      <item itemvalue="Application.Solution67" />
-      <item itemvalue="Application.Solution24" />
-      <item itemvalue="Application.Solution48" />
+      <item itemvalue="Application.Solution77" />
+      <item itemvalue="Application.Solution78" />
+      <item itemvalue="Application.Solution90" />
+      <item itemvalue="Application.Solution79" />
+      <item itemvalue="Application.Solution4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution48" />
-        <item itemvalue="Application.Solution24" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Solution67" />
-        <item itemvalue="Application.Solution51" />
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.Solution79" />
+        <item itemvalue="Application.Solution90" />
+        <item itemvalue="Application.Solution78" />
+        <item itemvalue="Application.Solution77" />
       </list>
     </recent_temporary>
   </component>
@@ -514,17 +562,18 @@
       <workItem from="1598233156662" duration="83545000" />
       <workItem from="1598840801283" duration="14324000" />
       <workItem from="1599181620294" duration="18489000" />
-      <workItem from="1599808152462" duration="283000" />
+      <workItem from="1599808152462" duration="21080000" />
+      <workItem from="1600045222044" duration="12126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="602323000" />
+    <option name="totallyTimeSpent" value="635246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17381974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1443133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -533,17 +582,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946353" weight="0.4888393" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" weight="0.3039106" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.38435754" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" weight="0.27486032" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.1027933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5150838" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5150838" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50429183" side_tool="true" weight="0.29575893" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32402235" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2424581" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven" order="1" weight="0.32977098" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -627,134 +676,28 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution46.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution40.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution79.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem101_110/Solution107.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem101_110/Solution104.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem101_110/Solution105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution97.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution96.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution95.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution91.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem81_90/Solution87.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem61_70/Solution62.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem61_70/Solution66.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution72.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution76.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem81_90/Solution90.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution73.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem71_80/Solution74.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem81_90/Solution88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem91_100/Solution92.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -996,6 +939,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/my2021Test/huawei2021/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-454">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBases/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my2021Test/huanJv/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my2021Test/zte/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem200_209/Solution200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="45" column="34" selection-start-line="42" selection-start-column="7" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem30_39/Solution39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my2021Test/huawei2021/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my2021Test/huawei2021/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBases/nio/NioClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1006,15 +1018,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huawei/problem41_50/Solution43.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution40.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="323">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/my2021Test/zte/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem40_49/Solution47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution77.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution78.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem90_99/Solution90.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my2021Test/xiaomi/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem70_79/Solution79.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="62" lean-forward="true" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/orderly/problem1_9/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

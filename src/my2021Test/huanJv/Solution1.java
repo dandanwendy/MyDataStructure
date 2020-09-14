@@ -1,7 +1,10 @@
-package my2021Test;
+package my2021Test.huanJv;
 
 import java.util.Scanner;
 
+/**
+ * 这题好像是求第一个比输入数字n大的水仙花数
+ */
 public class Solution1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
